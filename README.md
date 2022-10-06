@@ -1,2 +1,2 @@
 # DeTV
-mobile app made with flutter-dart
+Mobile Application to show popular movies and series. Flutter-dart
